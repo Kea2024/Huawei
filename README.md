@@ -1,5 +1,17 @@
 # Huawei
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Loading and Inspections](#data-loading-and-inspections)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results-findings)
+- [Recommendations](#recommendations)
+- [Limitations](limitations)
+
 ### Project Overview
 
 The goal is to make a report in Power BI out of Google’s Play Store dataset which will be used to report during a business review to find and talk through competitor insights together with the leadership team that’s attending.
